@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklogin_vue"]=self["webpackChunklogin_vue"]||[]).push([[596],{5596:function(n,e,u){u.r(e),u.d(e,{default:function(){return i}});var l=u(3396);const s={class:"h-full w-full"},t=(0,l._)("h3",null,"Estamos en el Menu",-1),r=[t];function c(n,e){return(0,l.wg)(),(0,l.iD)("section",s,r)}var o=u(89);const a={},f=(0,o.Z)(a,[["render",c]]);var i=f}}]);
+//# sourceMappingURL=596.6fc27ed1.js.map
